@@ -1,0 +1,12 @@
+.ab{
+    background-color:darkslategrey;
+    box-shadow: black;
+    border-bottom: blue;
+    box-sizing: content-box;
+    border-radius: 2rem;
+    color:yellow;
+    height: fit-content;
+    width:50%;
+    margin-left: 25%;
+    padding:auto;
+}
